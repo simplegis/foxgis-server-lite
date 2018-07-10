@@ -1,4 +1,7 @@
 # FoxGIS Server Lite
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jingsam/foxgis-server-lite.svg)](https://greenkeeper.io/)
+
 A simple and fully functional vector tiles server
 
 ## API
